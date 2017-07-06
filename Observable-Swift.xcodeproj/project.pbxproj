@@ -144,6 +144,7 @@
 		65D53669195F711E003B5DA5 /* OwningEventReference.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OwningEventReference.swift; sourceTree = "<group>"; };
 		65E6A4331958EB8000FBCFA7 /* ObservableProxy.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ObservableProxy.swift; sourceTree = "<group>"; };
 		65E7DC711957919100CFB99C /* ObservableChainingProxy.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ObservableChainingProxy.swift; sourceTree = "<group>"; };
+		9FC29A5F1F0EF6FF00A10B1C /* Observable.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Observable.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -181,6 +182,7 @@
 		65263A931954BC5000B39269 = {
 			isa = PBXGroup;
 			children = (
+				9FC29A5F1F0EF6FF00A10B1C /* Observable.playground */,
 				1C35F8361CA6FE630073DDE4 /* LICENSE */,
 				1C35F8351CA6FE630073DDE4 /* CHANGELOG.md */,
 				1C35F8371CA6FE630073DDE4 /* README.md */,
